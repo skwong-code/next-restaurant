@@ -163,9 +163,6 @@ If you have already agreed to share your information with us, feel free to conta
             DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
         }
 
-
-
-
         .logo {
           height: 1em;
         }

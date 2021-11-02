@@ -4,8 +4,16 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
- <h1>Contact Page</h1>
+    <div>
 
+      <Head>
+        <title>Contact Page</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+ 
+
+ <h1>Contact Page</h1>
+ </div>
  
   )
 }
