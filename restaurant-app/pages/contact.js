@@ -7,12 +7,14 @@ export default function Home() {
     <div>
 
       <Head>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Contact Page</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
- 
+
 
  <h1>Contact Page</h1>
+
  </div>
  
   )
